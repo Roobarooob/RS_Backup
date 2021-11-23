@@ -1,4 +1,4 @@
--F -w -i 'config.ico' --onefile --add-data "var.txt;." configurator.py
--F -i 'backup.ico' --onefile --add-data "var.txt;." makebackup.py
+-F -w -i 'config.ico' --uac-admin configurator.py
+-F -i 'backup.ico'." makebackup.py
 
 C:\Users\rubinshtein\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts\pyinstaller.exe

@@ -3,3 +3,4 @@ rs_path = \\revitsrv\Projects
 localpath = C:\Tests\RS Backup
 prefix = RS_ARCHIVE
 srv_ip = 192.168.123.21
+srv_vers = 2019

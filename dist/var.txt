@@ -3,3 +3,4 @@ rs_path =
 localpath = 
 prefix = 
 srv_ip = 
+srv_vers = 
