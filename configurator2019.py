@@ -113,7 +113,7 @@ r_rs_path = d['rs_path']
 r_localpath = d['localpath']
 r_prefix = d['prefix']
 r_srv_ip = d['srv_ip']
-w_srv_vers = '2021'
+w_srv_vers = '2019'
 def ok():
     w_days_ago = e1.get()
     w_rs_path = e2.get()
